@@ -4,7 +4,7 @@
 
 Bu uygulama, hava durumu bilgilerini görüntülemek için kullanıcı dostu bir arayüz sunar. AccuWeather API'sini kullanarak gerçek zamanlı hava durumu verilerini çeker ve kullanıcıya sunar.
 
-![uygulama ornegi](/img/weatherFt.gif)
+![uygulama ornegi](/img/123.gif)
 
 ## Özellikler
 
